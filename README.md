@@ -39,7 +39,6 @@ HR_AI_Assistant/
 │   └── utils/
 │
 ├── st_app.py
-├── requirements.txt
 └── README.md
 
 ```
